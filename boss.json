@@ -1,0 +1,9 @@
+{
+	"name": "rabbitmq-delphi",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "https://github.com/vicentecs-atual/rabbitmq-delphi",
+	"mainsrc": ".",
+	"projects": [],
+	"dependencies": {}
+}
